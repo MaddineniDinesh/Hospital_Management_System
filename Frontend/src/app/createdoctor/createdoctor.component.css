@@ -1,0 +1,13 @@
+.bg{
+    background-image: url(../../assets/img/gallery/cd.jpg);
+    height: 600px;
+}
+.container{
+    height: auto;
+   
+}
+/* .contact-image{
+    width:auto;
+    height: 100px;
+    border-radius: 50px;
+} */
